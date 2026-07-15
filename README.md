@@ -65,7 +65,6 @@ CarsAutomation
 │
 ├── src/test/java
 │
-├── testng.xml
 │
 ├── pom.xml
 │
@@ -86,27 +85,6 @@ CarsAutomation
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository
-
-```
-git clone <repository-url>
-```
-
-2. Import as Maven Project into Eclipse.
-
-3. Update Maven Dependencies.
-
-4. Execute
-
-```
-testng.xml
-```
-
-or run individual test classes.
-
----
 
 ## 📊 Test Coverage
 
